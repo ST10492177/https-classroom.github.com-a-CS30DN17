@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.exe.config
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.exe
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.pdb
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.exe
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.pdb
+C:\Users\Student\source\repos\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.exe.config
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.exe.config
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.exe
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\bin\Debug\ai_chatapp.pdb
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.csproj.AssemblyReference.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.exe.config
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.csproj.CoreCompileInputs.cache
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.exe
+C:\Users\Student\OneDrive - ADvTECH Ltd\ai_chatapp\ai_chatapp\obj\Debug\ai_chatapp.pdb
